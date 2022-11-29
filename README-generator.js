@@ -29,7 +29,7 @@ for (const rootDir of rootDirList) {
 // console.log(fileList);
 const fileKeys = Object.keys(fileList);
 const startDay = new dayjs(START_DAY).format('YYYYMMDD');
-const lastDay = new dayjs().format('YYYYMMDD');
+const lastDay = new dayjs().add(1, 'day').format('YYYYMMDD');
 
 let tableMd = `# 1day-1solve
 프로그래머스 하루에 한 문제
