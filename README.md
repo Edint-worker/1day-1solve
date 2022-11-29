@@ -10,4 +10,4 @@
 
 | days | Itzel | laynism | seokwoodang | unchaptered |
 | ---- | ----- | ----- | ----- | ----- |
-| 20221128 |  | [lv2-최댓값과 최솟값.md](./laynism/20221128-lv2-%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.md) | [lv1-나머지가 1이 되는 수 찾기.md](./seokwoodang/20221128-lv1-%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md) | [lv2-JadenCase 문자열 만들기.md](./unchaptered/20221128-lv2-JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
+| 20221128 |  | [lv2-최댓값과 최솟값.md](.%2Flaynism%2F20221128-lv2-%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.md) | [lv1-나머지가 1이 되는 수 찾기.md](.%2Fseokwoodang%2F20221128-lv1-%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md) | [lv2-JadenCase 문자열 만들기.md](.%2Funchaptered%2F20221128-lv2-JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
