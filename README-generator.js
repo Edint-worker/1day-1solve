@@ -92,7 +92,7 @@ function addHistoryLine(fileList, fileKeys, startDay, lastDay) {
                 const first = v[0];
                 // lv2 -> lv-2
                 const second = v[1].slice(0, 2) + '-' + v[1].slice(2, 3);
-                const last = [v3];
+                const last = v[3];
                 return [first, second, last].join('-')
             });
             les[fileKey] = filteredValue.map(v => {
