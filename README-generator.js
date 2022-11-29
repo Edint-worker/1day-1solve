@@ -39,6 +39,8 @@ let tableMd = `# 1day-1solve
 
 나중에 shell script 만들어서 로그 
 
+2022-11-29 / Lv1 / https://school.programmers.co.kr/learn/courses/30/lessons/132267
+
 ### 풀이 기록
 
 `;
