@@ -89,7 +89,11 @@ function addHistoryLine(fileList, fileKeys, startDay, lastDay) {
             les.names.push(fileKey);
 
             const fileName = filteredValue.map(v => v.join('-'));
-            les[fileKey] = filteredValue.map(v => `[${v[1]}-${v[2]}](./${fileKey}/${v.join('-')})`);
+            les[fileKey] = filteredValue.map(v => {
+                const path = `./${fileKey}/${v.join('-')}`;
+                const encodedPath = encodeURI(path);
+                return `[${v[1]}-${v[2]}](${encodedPath})`;
+            });
         }
 
         console.log(d, les);
