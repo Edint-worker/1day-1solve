@@ -1,6 +1,6 @@
 console.log('hello');
 
-const START_DAY = '20221001';
+const START_DAY = '20221128';
 
 const dayjs = require('dayjs');
 const fs = require('fs');
