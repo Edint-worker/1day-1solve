@@ -88,22 +88,18 @@ function addHistoryLine(fileList, fileKeys, startDay, lastDay) {
             les.names.push(fileKey);
 
             const fileName = filteredValue.map(v => {
-                console.log(v);
                 const first = v[0];
                 // lv2 -> lv-2
                 const second = v[1].slice(0, 2) + '-' + v[1].slice(2, 3);
-                const last = v[3];
+                const last = v[2];
                 return [first, second, last].join('-')
             });
             les[fileKey] = filteredValue.map(v => {
-                const path = `https://github.com/Edint-worker/1day-1solve/blob/main/${fileKey}/${v.join('-')}`;
+                const path = `https://github.com/Edint-worker/1day-1solve/blob/main/${fileKey}/${fileName}`;
                 const encodedPath = encodeURI(path);
                 return `[${v[1]}-${v[2]}](${encodedPath})`;
             });
         }
-
-        console.log(d, les);
-
 
         md += `
 | ${d} |`
