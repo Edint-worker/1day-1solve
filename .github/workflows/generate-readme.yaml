@@ -36,3 +36,10 @@ jobs:
 
       - name: Listup
         run: cat README.md
+
+      - name: Automated Update by GitHub Bot
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git commit -am 'Update README.md'
+          git push
