@@ -87,9 +87,7 @@ function addHistoryLine(fileList, fileKeys, startDay, lastDay) {
             const filteredValue = value.filter(v => v[0] === d);
             les.names.push(fileKey);
 
-            const fileName = filteredValue.map(v => {
-                return [first, second, last].join('-')
-            });
+            const fileName = filteredValue.map(v => v.join('-'));
             les[fileKey] = filteredValue.map(v => {
 
                 const first = v[0];
