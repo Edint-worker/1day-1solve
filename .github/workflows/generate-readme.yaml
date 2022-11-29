@@ -35,4 +35,4 @@ jobs:
         run: node README-generator.js
 
       - name: Listup
-        run: ls
+        run: cat README.md
