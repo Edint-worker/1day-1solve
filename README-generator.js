@@ -85,13 +85,12 @@ function addHistoryLine(fileList, fileKeys, startDay, lastDay) {
         for (const fileKey of fileKeys) {
             const value = fileList[fileKey];
             const filteredValue = value.filter(v => v[0] === d);
-
             les.names.push(fileKey);
 
             const fileName = filteredValue.map(v => v.join('-'));
             les[fileKey] = filteredValue.map(v => {
-                const path = `./${fileKey}/${v.join('-')}`;
-                const encodedPath = encodeURIComponent(path);
+                const path = `https://github.com/Edint-worker/1day-1solve/blob/main/${fileKey}/${v.join('-')}`;
+                const encodedPath = encodeURI(path);
                 return `[${v[1]}-${v[2]}](${encodedPath})`;
             });
         }
