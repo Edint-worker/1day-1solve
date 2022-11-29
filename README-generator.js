@@ -89,7 +89,10 @@ function addHistoryLine(fileList, fileKeys, startDay, lastDay) {
 
             const fileName = filteredValue.map(v => v.join('-'));
             les[fileKey] = filteredValue.map(v => {
-                const path = `https://github.com/Edint-worker/1day-1solve/blob/main/${fileKey}/${v.join('-')}`;
+
+                const [l, v, n] = fileKey;
+                const tempKey = l + v + '-' + n;
+                const path = `https://github.com/Edint-worker/1day-1solve/blob/main/${tempKey}/${v.join('-')}`;
                 const encodedPath = encodeURI(path);
                 return `[${v[1]}-${v[2]}](${encodedPath})`;
             });
