@@ -37,6 +37,8 @@ let tableMd = `# 1day-1solve
 
 20220101-lv-2-파일명.md 의 형식으로 만들어주세요~~
 
+2022-12-02 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/132265
+
 2022-12-01 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/138476
 
 2022-11-30 / Lv1 / https://school.programmers.co.kr/learn/courses/30/lessons/81301 (kakao)
