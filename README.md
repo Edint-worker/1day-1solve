@@ -33,4 +33,4 @@
 | 20221206 | [lv2-하노이의탑.md](https://github.com/Edint-worker/1day-1solve/blob/main/Itzel/20221206-lv-2-%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%ED%83%91.md) | [lv2-하노이의탑.md](https://github.com/Edint-worker/1day-1solve/blob/main/laynism/20221206-lv-2-%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%ED%83%91.md) | [lv2-하노이의탑.md](https://github.com/Edint-worker/1day-1solve/blob/main/seokwoodang/20221206-lv-2-%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%ED%83%91.md) |  |
 | 20221207 |  |  |  | [lv2-큰 수 만들기.md](https://github.com/Edint-worker/1day-1solve/blob/main/unchaptered/20221207-lv-2-%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
 | 20221208 |  |  |  |  |
-| 20221209 |  |  |  |  |
+| 20221209 |  |  |  | [lv2-[PCCP 모의고사 1] 1번.md](https://github.com/Edint-worker/1day-1solve/blob/main/unchaptered/20221209-lv-2-%5BPCCP%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%201%5D%201%EB%B2%88.md) |
