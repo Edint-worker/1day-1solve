@@ -34,4 +34,4 @@
 | 20221207 |  |  |  | [lv2-가장 가까운 같은 글자.md](https://github.com/Edint-worker/1day-1solve/blob/main/unchaptered/20221207-lv-2-%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.md)<br>[lv2-큰 수 만들기.md](https://github.com/Edint-worker/1day-1solve/blob/main/unchaptered/20221207-lv-2-%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
 | 20221208 |  |  |  |  |
 | 20221209 |  |  |  | [lv2-[PCCP 모의고사 1] 1번.md](https://github.com/Edint-worker/1day-1solve/blob/main/unchaptered/20221209-lv-2-%5BPCCP%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%201%5D%201%EB%B2%88.md) |
-| 20221210 |  |  |  |  |
+| 20221210 |  |  |  | [lv3-베스트 앨범.md](https://github.com/Edint-worker/1day-1solve/blob/main/unchaptered/20221210-lv-3-%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94.md) |
