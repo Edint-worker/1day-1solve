@@ -4,6 +4,8 @@
 
 20220101-lv-2-파일명.md 의 형식으로 만들어주세요~~
 
+2022-12-15 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/131701
+
 2022-12-14 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/12899
 
 2022-12-13 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/131130
@@ -45,3 +47,4 @@
 | 20221212 |  |  |  |  |
 | 20221213 | [lv2-혼자 놀기의 달인.md](https://github.com/Edint-worker/1day-1solve/blob/main/Itzel/20221213-lv-2-%ED%98%BC%EC%9E%90%20%EB%86%80%EA%B8%B0%EC%9D%98%20%EB%8B%AC%EC%9D%B8.md) |  |  |  |
 | 20221214 | [lv2-124 나라의 숫자.md](https://github.com/Edint-worker/1day-1solve/blob/main/Itzel/20221214-lv-2-124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.md) | [lv2-124 나라의 숫자.md](https://github.com/Edint-worker/1day-1solve/blob/main/laynism/20221214-lv-2-124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.md) |  | [lv2-124 나라의 숫자.md](https://github.com/Edint-worker/1day-1solve/blob/main/unchaptered/20221214-lv-2-124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.md) |
+| 20221215 |  |  |  |  |
