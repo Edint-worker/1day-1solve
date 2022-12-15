@@ -47,4 +47,4 @@
 | 20221212 |  |  |  |  |
 | 20221213 | [lv2-혼자 놀기의 달인.md](https://github.com/Edint-worker/1day-1solve/blob/main/Itzel/20221213-lv-2-%ED%98%BC%EC%9E%90%20%EB%86%80%EA%B8%B0%EC%9D%98%20%EB%8B%AC%EC%9D%B8.md) |  |  |  |
 | 20221214 | [lv2-124 나라의 숫자.md](https://github.com/Edint-worker/1day-1solve/blob/main/Itzel/20221214-lv-2-124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.md) | [lv2-124 나라의 숫자.md](https://github.com/Edint-worker/1day-1solve/blob/main/laynism/20221214-lv-2-124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.md) |  | [lv2-124 나라의 숫자.md](https://github.com/Edint-worker/1day-1solve/blob/main/unchaptered/20221214-lv-2-124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.md) |
-| 20221215 |  |  |  |  |
+| 20221215 |  |  |  | [lv2-연속 부분 수열 합의 개수.md](https://github.com/Edint-worker/1day-1solve/blob/main/unchaptered/20221215-lv-2-%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.md) |
