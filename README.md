@@ -61,3 +61,4 @@
 | 20221218 |  |  |  |  |
 | 20221219 |  |  |  |  |
 | 20221220 |  |  |  |  |
+| 20221221 | [lv2-문자열 압축.md](https://github.com/Edint-worker/1day-1solve/blob/main/Itzel/20221221-lv-2-%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md) |  |  |  |
