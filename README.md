@@ -4,6 +4,10 @@
 
 20220101-lv-2-파일명.md 의 형식으로 만들어주세요~~
 
+2022-12-27 / Lv3 / https://school.programmers.co.kr/learn/courses/30/lessons/60059
+
+2022-12-26 / Lv3 / https://school.programmers.co.kr/learn/courses/30/lessons/49191
+
 2022-12-25 / 휴식
 
 2022-12-24 / 휴식
@@ -84,3 +88,7 @@
 | 20221221 | [lv2-문자열 압축.md](https://github.com/Edint-worker/1day-1solve/blob/main/Itzel/20221221-lv-2-%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md) |  |  |  |
 | 20221222 |  |  |  |  |
 | 20221223 |  |  |  |  |
+| 20221224 |  |  |  |  |
+| 20221225 |  |  |  |  |
+| 20221226 |  |  |  |  |
+| 20221227 |  |  |  |  |
