@@ -8,9 +8,7 @@
 
 2022-12-26 / Lv3 / https://school.programmers.co.kr/learn/courses/30/lessons/49191
 
-2022-12-25 / 휴식
-
-2022-12-24 / 휴식
+2022-12-24 ~ 2022-12-25 / 휴식
 
 2022-12-23 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/134239
 
@@ -20,11 +18,7 @@
 
 2022-12-20 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/140107
 
-2022-12-19 / 휴식
-
-2022-12-18 / 휴식
-
-2022-12-17 / 휴식
+2022-12-17 ~ 2022-12-19 / 휴식
 
 2022-12-16 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/42860
 
@@ -34,15 +28,7 @@
 
 2022-12-13 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/131130
 
-2022-12-12 / 휴식
-
-2022-12-11 / 휴식
-
-2022-12-10 / 휴식
-
-2022-12-09 / 휴식
-
-2022-12-08 / 휴식
+2022-12-08 ~ 2022-12-12 / 휴식
 
 2022-12-07 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/42883 (easy)
 
