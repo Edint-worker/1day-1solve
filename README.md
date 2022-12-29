@@ -4,9 +4,13 @@
 
 20220101-lv-2-파일명.md 의 형식으로 만들어주세요~~
 
-2022-12-27 / Lv3 / https://school.programmers.co.kr/learn/courses/30/lessons/60059
+2022-12-29 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/72412 (kakao)
 
-2022-12-26 / Lv3 / https://school.programmers.co.kr/learn/courses/30/lessons/49191
+2022-12-28 / Lv3 / https://school.programmers.co.kr/learn/courses/30/lessons/60059
+
+2022-12-27 / Lv3 / https://school.programmers.co.kr/learn/courses/30/lessons/49191
+
+2022-12-26 / Lv2 / https://school.programmers.co.kr/learn/courses/30/lessons/147354
 
 2022-12-24 ~ 2022-12-25 / 휴식
 
@@ -78,3 +82,5 @@
 | 20221225 |  |  |  |  |
 | 20221226 |  |  |  |  |
 | 20221227 |  |  |  |  |
+| 20221228 |  |  |  |  |
+| 20221229 |  |  |  |  |
